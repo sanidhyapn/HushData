@@ -1,4 +1,4 @@
-> Solute Package Documentation: [https://sathvikpn.github.io/Solute/](https://sathvikpn.github.io/Solute/)
+
 
 
 &nbsp;
@@ -60,7 +60,7 @@ optional arguments:
 ```bash
 pip install .
 ```
-> Package Documentation: [https://sathvikpn.github.io/Solute/](https://sathvikpn.github.io/Solute/)
+
 
 &nbsp;
 
@@ -93,21 +93,6 @@ Currently supports Windows OS.
 ![CLI Decoder](assets/cli_decoder_preview.png)
 
 &nbsp;
-
-## Contributing
-
-Contributions, issues, feature requests are welcome!
-
-Feel free to check [issues page](https://github.com/SathvikPN/Steganography-application/issues)
-
-
-&nbsp;
-
-[![GitHub license](https://img.shields.io/github/license/SathvikPN/Solute?style=flat-square)](https://github.com/SathvikPN/Solute/blob/main/LICENSE)
-
-![GitHub issues](https://img.shields.io/github/issues/SathvikPN/Solute?style=flat-square)
-
-![GitHub stars](https://img.shields.io/github/stars/SathvikPN/Solute?style=social)
 
 
 &nbsp;
