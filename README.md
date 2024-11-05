@@ -57,14 +57,6 @@ pip install .
 
 
 &nbsp;
-
-### Update Docs
-Development utility: For any changes in package source code, reflect it in docs pages.
-```bash
-make docs
-```
-
-&nbsp;
 &nbsp;
 
 
